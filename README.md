@@ -1,4 +1,4 @@
-Sai-Venkat-Krishna.github.io
+sai-venkat-krishna.github.io/Sai-Venkat-Krishna/
 <!--
 **Sai-Venkat-Krishna/Sai-Venkat-Krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
